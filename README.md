@@ -30,15 +30,11 @@
 
 ---
 
-### 🐱 Mioquinha Activity Eater
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mioquinha/mioquinha/main/mioquinha.gif" height="150" />
-</div>
-
----
-
 ### 📫 Contato
 
 - ✉️ jopecs04@gmail.com  
-- 🌐 [LinkedIn]()
+- 🌐 [LinkedIn](https://linkedin.com/in/seu-link)
+
+---
+
+<p align="center">Feito com ❤️ por João Pedro | Vamos codar! 🚀</p>
