@@ -1,4 +1,4 @@
-<h1 align="center">🔥 Bem-vindo ao Universo Dev de João Pedro 🔥</h1>
+<h1 align="center">🔥 Bem-vindo, Sou João Pedro 🔥</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+FullStack;Especialista+em+Lua,+JS+e+Back-end;Tecnologia+é+meu+combustível!&center=true&width=500&height=45&color=F7DF1E&vCenter=true&size=22" />
