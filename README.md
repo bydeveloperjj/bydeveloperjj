@@ -51,7 +51,7 @@
 ## 📫 Contato
 
 <p align="center">
-  📧 <strong>productiongroupgg@gmail.com</strong><br>
+  📧 <strong>joaopedrocodes@gmail.com</strong><br>
   💬 Disponível para colaborações, freelas e projetos inovadores!
 </p>
 
