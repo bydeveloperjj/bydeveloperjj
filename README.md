@@ -25,8 +25,6 @@
 </p>
 
 <p align="center">
-  💻 **Minha missão**: Criar soluções inovadoras e eficientes utilizando as tecnologias mais modernas.<br>
-  🚀 **Meu diferencial**: Sempre em busca de aprender, melhorar e otimizar processos!
 </p>
 
 ---
