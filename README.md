@@ -64,16 +64,14 @@
 
 ---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
+</p>
+
 <h2 align="center">🧠 Frase que me representa</h2>
 
 <p align="center">
   <em>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</em>
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
 </p>
 
 <p align="center">
