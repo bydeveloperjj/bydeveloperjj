@@ -7,12 +7,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Olá%2C+sou+João+Pedro!;Desenvolvedor+Full+Stack+Pleno;Apaixonado+por+tecnologia+e+código+limpo" alt="Typing SVG" />
-</div>
-
----
-
 ### <div align="center" style="color:#ff69b4;">🛠️ Tecnologias</div>
 
 <div align="center">
