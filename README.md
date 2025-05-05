@@ -50,8 +50,11 @@
 ### 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bydeveloperjj/ayangweb/master/assets/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bydeveloperjj/ayangweb/master/assets/github-contribution-grid-snake.svg">
+  ### 🐍 Contribution Snake
+
+![GitHub Snake Light](https://github.com/bydeveloperjj/ayangweb/raw/master/assets/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://github.com/bydeveloperjj/ayangweb/raw/master/assets/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bydeveloperjj/ayangweb/master/assets/github-contribution-grid-snake.svg">
 </picture>
 
