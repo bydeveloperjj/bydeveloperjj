@@ -2,12 +2,12 @@
 
 ---
 
-## 📍 Sobre Mim
+## 👨‍💻 Quem sou eu?
 
 <p align="center">
-  👋 Me chamo João Pedro, iniciei na programação em <strong>2019</strong> e desde então nunca parei.<br>
-  💡 Sou apaixonado por automação, sistemas inteligentes e tudo que envolve código.<br>
-  🔥 Busco evolução todos os dias — aprender, criar e superar desafios é meu combustível.
+  Desenvolvedor desde <strong>2019</strong>.<br>
+  Amante de <strong>códigos limpos</strong> e <strong>projetos criativos</strong>.<br>
+  Sempre buscando aprender e evoluir todos os dias. 🚀
 </p>
 
 ---
@@ -20,7 +20,7 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub em ação
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bydeveloperjj&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
@@ -30,22 +30,25 @@
 
 ---
 
-## ⚙️ Ferramentas e Plataformas
+## ⚙️ Ferramentas do dia a dia
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Editor-VSCode-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/SO-Linux-orange?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terminal-Zsh-informational?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-orange?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zsh-informational?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
 
 ---
 
-## 📫 Contato
+## 📫 Fala comigo
 
 <p align="center">
   📧 <strong>joaopedrocodes@gmail.com</strong><br>
-  💬 Disponível para colaborações, freelas e projetos inovadores!
+  💬 Bora fazer algo foda juntos?
 </p>
 
 ---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bydeveloperjj&style=flat-square&color=blue" alt="Visualizações de perfil" />
+</p>
