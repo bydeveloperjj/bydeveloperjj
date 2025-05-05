@@ -1,45 +1,33 @@
-# 👨‍💻 Dev Portfolio
+# 👨‍💻 João Pedro
 
-> Desenvolvedor apaixonado por soluções eficientes, interfaces limpas e código bem estruturado.  
-> São Paulo - SP • Contato: [meuemail@gmail.com](mailto:meuemail@gmail.com)
+> Desenvolvedor focado em performance, organização e minimalismo extremo.  
+> São Paulo - SP • Contato: [joaopedrocodes@gmail.com](mailto:joaopedrocodes@gmail.com)
 
 ---
 
 ## 💼 Sobre
 
-Foco em desenvolvimento fullstack com experiência em sistemas complexos, roleplay, APIs, interfaces modernas e bancos de dados robustos.  
-Buscando sempre inovação, performance e clareza no que desenvolvo.
+Especialista em sistemas complexos, interfaces limpas e código estruturado.  
+Trabalho com desenvolvimento fullstack, automações e servidores personalizados.
 
 ---
 
-## 🚀 Tecnologias
+## 🛠️ Tecnologias
 
-- **Linguagens:** `Lua`, `JavaScript`, `TypeScript`, `Python`, `SQL`
-- **Web:** `React`, `Next.js`, `HTML`, `CSS`, `Tailwind`
-- **Back-end:** `Node.js`, `Express`, `MariaDB`, `MongoDB`, `MTA:SA`
-- **Outros:** `Git`, `REST APIs`, `Webhooks`, `Docker`
-
----
-
-## 🔗 Links úteis
-
-- [Documentação MTA:SA](https://wiki.multitheftauto.com/wiki/Main_Page)
-- [MDN Web Docs (JavaScript, HTML, CSS)](https://developer.mozilla.org/)
-- [W3Schools](https://www.w3schools.com/)
-- [Stack Overflow](https://stackoverflow.com/)
-- [GitHub Docs](https://docs.github.com/)
-- [MariaDB Docs](https://mariadb.com/kb/en/documentation/)
+<div style="display: flex; gap: 10px; align-items: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30"/>
+</div>
 
 ---
 
-## 📬 Contato
+## 🧠 Filosofia
 
-[meuemail@gmail.com](mailto:meuemail@gmail.com)  
-São Paulo - SP, Brasil
-
----
-
-## 🧠 Foco
-
-> **Minimalismo, clareza e performance**  
-> Sempre buscando código limpo, organizado e escalável.
+> Código limpo, minimalismo visual e eficiência máxima.
