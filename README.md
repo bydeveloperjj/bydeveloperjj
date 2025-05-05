@@ -1,13 +1,11 @@
-<h1 align="center">🔥 Bem-vindo ao Perfil de João Pedro! 🔥</h1>
+<h1 align="center">Bem-vindo ao Perfil de João Pedro!</h1>
 
 ---
 
 ## 📞 Meios de Contato
 
 <p align="center">
-  📧 **E-mail:** <strong>joaopedrocodes@gmail.com</strong><br>
-  🌐 **LinkedIn/Outros:** Em breve.<br>
-  💬 **Vamos criar algo incrível juntos?**
+  📧 E-mail: <strong>joaopedrocodes@gmail.com</strong><br>
 </p>
 
 ---
