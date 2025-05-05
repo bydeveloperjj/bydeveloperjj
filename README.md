@@ -34,8 +34,8 @@
 
 <div align="center">
 
-- ✉️ <span style="color:#ff4da6;">jopecs04@gmail.com</span>  
-- 🌐 <a href="https://linkedin.com/in/seu-link" style="color:#ff69b4;">LinkedIn</a>
+✉️ <span style="color:#ff4da6;">jopecs04@gmail.com</span>  
+
 
 </div>
 
