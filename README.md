@@ -1,13 +1,5 @@
 <h1 align="center">🔥 Bem-vindo, Sou João Pedro 🔥</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+FullStack;Especialista+em+Lua,+JS,+Back-end;Tecnologia+é+meu+combustível!&center=true&width=500&height=45&color=F7DF1E&vCenter=true&size=22" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
-</p>
-
 ---
 
 ## 📍 Sobre Mim
@@ -65,6 +57,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bydeveloperjj&style=flat-square&color=blue" alt="Visualizações de perfil" />
-</p>
