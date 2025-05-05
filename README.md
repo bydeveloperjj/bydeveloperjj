@@ -49,15 +49,6 @@
 
 ---
 
-## 💬 O que me motiva
-
-<p align="center">
-  "O código é como humor: quando você precisa explicar, algo deu errado." – Cory House<br><br>
-  📈 Acredito em evolução constante e estou sempre buscando superar os desafios com soluções criativas e de alta performance. 🔥
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bydeveloperjj&style=flat-square&color=blue" alt="Visualizações de perfil" />
 </p>
