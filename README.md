@@ -43,7 +43,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Editor-VSCode-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/SO-Linux-informational?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Terminal-Zsh-informational?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
 
