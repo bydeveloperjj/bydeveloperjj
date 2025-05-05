@@ -16,16 +16,7 @@
 ### <div align="center" style="color:#ff69b4;">🛠️ Tecnologias</div>
 
 <div align="center">
-  <img height="50" src="https://skillicons.dev/icons?i=js,ts,java,lua,html,css,xml,react,nodejs,postgres,mongodb,python,c,cs,git,github,vscode&theme=light" />
-</div>
-
----
-
-### <div align="center" style="color:#ff69b4;">📈 GitHub Activity</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=developerjj&show_icons=true&theme=radical&hide_border=true&title_color=ff69b4&icon_color=ff85c1&text_color=ffffff" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=developerjj&theme=radical&hide_border=true&ring=ff69b4&fire=ff85c1&currStreakLabel=ffffff" />
+  <img height="45" src="https://skillicons.dev/icons?i=js,ts,java,html,css,xml,react,nodejs,postgres,mongodb,python,c,cs,git,github,vscode&theme=light" />
 </div>
 
 ---
@@ -34,8 +25,7 @@
 
 <div align="center">
 
-- ✉️ <span style="color:#ff4da6;">jopecs04@gmail.com</span>  
-- 🌐 <a href="https://linkedin.com/in/seu-link" style="color:#ff69b4;">LinkedIn</a>
+- ✉️ <span style="color:#ff4da6;">jopecs04@gmail.com</span>
 
 </div>
 
