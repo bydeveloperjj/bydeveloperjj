@@ -1,34 +1,45 @@
-<div align="center">
-  <h1 style="color:#ff69b4; font-size: 48px;">👋 Welcome, João Pedro!</h1>
-  <h2 style="color:#ff69b4;">Desenvolvedor Full Stack</h2>
-  <p><em style="color:#ff4da6;">Código limpo, soluções escaláveis, performance na veia.</em></p>
-</div>
+# 👨‍💻 Dev Portfolio
+
+> Desenvolvedor apaixonado por soluções eficientes, interfaces limpas e código bem estruturado.  
+> São Paulo - SP • Contato: [meuemail@gmail.com](mailto:meuemail@gmail.com)
 
 ---
 
-### <div align="center" style="color:#ff69b4;">🛠️ Tecnologias</div>
+## 💼 Sobre
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,lua,html,css,xml,react,nodejs,postgres,mongodb,python,c,cs,git,github,vscode&theme=light" height="50" style="margin: 5px;" />
-</p>
-
----
-
-### <div align="center" style="color:#ff69b4;">📈 GitHub Activity</div>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=developerjj&show_icons=true&theme=radical&hide_border=true&title_color=ff69b4&icon_color=ff85c1&text_color=ffffff" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=developerjj&theme=radical&hide_border=true&ring=ff69b4&fire=ff85c1&currStreakLabel=ffffff" />
-</p>
+Foco em desenvolvimento fullstack com experiência em sistemas complexos, roleplay, APIs, interfaces modernas e bancos de dados robustos.  
+Buscando sempre inovação, performance e clareza no que desenvolvo.
 
 ---
 
-### <div align="center" style="color:#ff69b4;">📫 Contato</div>
+## 🚀 Tecnologias
 
-<p align="center" style="color:#ff4da6;">
-✉️ joaopedrocodes@gmail.com
-</p>
+- **Linguagens:** `Lua`, `JavaScript`, `TypeScript`, `Python`, `SQL`
+- **Web:** `React`, `Next.js`, `HTML`, `CSS`, `Tailwind`
+- **Back-end:** `Node.js`, `Express`, `MariaDB`, `MongoDB`, `MTA:SA`
+- **Outros:** `Git`, `REST APIs`, `Webhooks`, `Docker`
 
 ---
 
-<p align="center" style="color:#ff69b4;">Feito com ❤️ por João Pedro | Vamos codar! 🚀</p>
+## 🔗 Links úteis
+
+- [Documentação MTA:SA](https://wiki.multitheftauto.com/wiki/Main_Page)
+- [MDN Web Docs (JavaScript, HTML, CSS)](https://developer.mozilla.org/)
+- [W3Schools](https://www.w3schools.com/)
+- [Stack Overflow](https://stackoverflow.com/)
+- [GitHub Docs](https://docs.github.com/)
+- [MariaDB Docs](https://mariadb.com/kb/en/documentation/)
+
+---
+
+## 📬 Contato
+
+[meuemail@gmail.com](mailto:meuemail@gmail.com)  
+São Paulo - SP, Brasil
+
+---
+
+## 🧠 Foco
+
+> **Minimalismo, clareza e performance**  
+> Sempre buscando código limpo, organizado e escalável.
