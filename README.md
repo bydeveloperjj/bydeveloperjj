@@ -44,7 +44,6 @@
 
 <p align="center">
   📧 <strong>joaopedrocodes@gmail.com</strong><br>
-  💬 Bora fazer algo foda juntos?
 </p>
 
 ---
