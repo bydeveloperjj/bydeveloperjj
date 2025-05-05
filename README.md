@@ -16,7 +16,7 @@
 ### 🛠️ Tecnologias
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,lua,html,css,xml,react,nodejs,postgres,mongodb,python,c,cs,git,github,vscode" />
 </div>
 
 ---
@@ -32,14 +32,13 @@
 
 ### 🐱 Mioquinha Activity Eater
 
-![Mioquinha](https://raw.githubusercontent.com/mioquinha/mioquinha/main/mioquinha.gif)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mioquinha/mioquinha/main/mioquinha.gif" height="150" />
+</div>
 
 ---
 
 ### 📫 Contato
+
 - ✉️ jopecs04@gmail.com  
-- 🌐 [LinkedIn](https://linkedin.com/in/seu-link)
-
----
-
-<p align="center">Feito com ❤️ por João Pedro | Vamos codar! 🚀</p>
+- 🌐 [LinkedIn]()
