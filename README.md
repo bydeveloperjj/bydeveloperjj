@@ -1,31 +1,44 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00FFBB&center=true&vCenter=true&width=600&lines=Jo%C3%A3o+Pedro+Codes;+Fullstack+Engineer+since+2018;+Engineering+Student+%E2%80%A2+São+Paulo+SP;+obsessed+with+clean+code+%26+microdetail)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFBB&vCenter=true&width=600&lines=Eai%2C+sou+bydeveloperjj.;Programador+desde+2018.;Pensamento+%23macrifot.;Engenharia+de+Software+%7C+SP)](https://git.io/typing-svg)
 
 ---
 
-### 🧠 João Pedro • Fullstack Engineer  
-<sub>🇧🇷 Pleno em desenvolvimento desde 2018 | 🇺🇸 Focused, precise & fluent in code</sub>
+### 🧠 bydeveloperjj • Fullstack Developer  
+<sub>Pleno desde 2018 • São Paulo / Brasil • Macrifot Thinker</sub>
 
 </div>
 
 ---
 
-### 💬 tecnologias & interesses — technologies & interests
+### 🧰 Tecnologias
 
-- ⚙️ Lua, TypeScript, Node.js, MySQL, React, Docker  
-- 🧪 automações, sistemas de roleplay, ferramentas internas  
-- 🧭 software minimalista, lógica aplicada, consistência  
-- 🧬 estruturas modulares, foco em escalabilidade  
-- 🧠 *macrifot* thinking: pensar acima do escopo comum  
-- 🎓 cursando engenharia de software  
-- 🌍 interfaces que não só funcionam — mas inspiram  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=lua,ts,nodejs,react,mysql,docker,py,html,css&theme=dark" />
+</p>
+
+- 🔹 **Stack**: Lua, TypeScript, Node.js, MySQL, React, Docker  
+- 🔹 **Outros**: Python, WebSockets, APIs REST, Auth Systems  
+- 🔹 **Visão**: minimalismo, arquitetura modular, eficiência
 
 ---
 
+### 🔎 Sobre mim
+
+- 💻 Programo desde 2018 em diversos setores  
+- 🎓 Cursando Engenharia de Software  
+- 🧬 Crio sistemas com foco em performance real  
+- 🧠 Acredito no código como arte funcional  
+- 📎 “macrifot” — pensar além do escopo visível  
+- 🌓 Prefiro o essencial, sem excessos  
+- 🌐 Sempre aprendendo, sempre depurando
+
+---
+
+### 📩 Contato
+
 <div align="center">
 
-### 📩 contato | contact  
 <a href="mailto:joaopedrocodes@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-joaopedrocodes@gmail.com-black?style=flat&logo=gmail&logoColor=white"/>
 </a>
@@ -34,21 +47,19 @@
 
 ---
 
-### 🌱 filosofia pessoal — personal philosophy
+### 🐍 Snake de Contribuição
 
-> *"Detalhe não é detalhe. Detalhe é o design."*  
-> – Charles Eames
-
-> *"Minimalismo não é ausência de algo. É presença total do essencial."*
-
----
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=lua,ts,nodejs,react,mysql,docker&theme=dark" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bydeveloperjj/bydeveloperjj/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bydeveloperjj/bydeveloperjj/output/github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/bydeveloperjj/bydeveloperjj/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
 <div align="center">
-  <sub>© joaopedrocodes — São Paulo / Open to collabs, minimal minds & clean systems.</sub>
+
+🖤 _Código é linguagem. E eu escolhi falar com precisão._  
+🕶️ [@bydeveloperjj](https://github.com/bydeveloperjj)
+
 </div>
