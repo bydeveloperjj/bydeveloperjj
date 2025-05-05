@@ -2,14 +2,6 @@
 
 ---
 
-## 📞 Meios de Contato
-
-<p align="center">
-  📧 E-mail: <strong>joaopedrocodes@gmail.com</strong><br>
-</p>
-
----
-
 ## 🚀 Tecnologias & Ferramentas que Uso
 
 <p align="center">
@@ -67,12 +59,6 @@
 </p>
 
 ---
-
-## 👾 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bydeveloperjj&langs_count=8&theme=radical&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bydeveloperjj&style=flat-square&color=blue" alt="Visualizações de perfil" />
