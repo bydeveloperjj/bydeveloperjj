@@ -1,49 +1,25 @@
-<h1 align="center">🔥 Bem-vindo, Sou João Pedro 🔥</h1>
+<h1 align="center">📞 Contato & 🛠 Ferramentas</h1>
 
 ---
 
-## 👨‍💻 Quem sou eu?
-
-<p align="center">
-  Desenvolvedor desde <strong>2019</strong>.<br>
-  Amante de <strong>códigos limpos</strong> e <strong>projetos criativos</strong>.<br>
-  Sempre buscando aprender e evoluir todos os dias. 🚀
-</p>
-
----
-
-## 🚀 Tecnologias que uso
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=lua,js,python,react,nodejs,html,css,docker,git,github,vscode,linux" />
-</p>
-
----
-
-## 📊 GitHub em ação
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bydeveloperjj&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bydeveloperjj&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## ⚙️ Ferramentas do dia a dia
-
-<p align="center">
-  <img src="https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-orange?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zsh-informational?style=for-the-badge&logo=gnubash&logoColor=white" />
-</p>
-
----
-
-## 📫 Fala comigo
+## 📫 Meios de Contato
 
 <p align="center">
   📧 <strong>joaopedrocodes@gmail.com</strong><br>
+  💬 Aberto para parcerias, projetos e ideias!
+</p>
+
+---
+
+## 🛠 Tecnologias e Ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=lua,js,ts,python,react,html,css,docker,git,vscode,linux" />
+</p>
+
+<p align="center">
+  <strong>Linguagens:</strong> Lua, Java, JavaScript, TypeScript, Python, HTML, CSS, SQL, etc.<br>
+  <strong>Ferramentas:</strong> Docker, Git, GitHub, VSCode, Linux, Firebase, MongoDB, Node.js, React, etc.
 </p>
 
 ---
