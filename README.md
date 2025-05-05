@@ -49,11 +49,3 @@
 
 ---
 
-## 💬 Frase que me representa
-
-<p align="center">
-  <em>"Code is like humor. When you have to explain it, it’s bad." – Cory House</em>
-</p>
-
----
-
