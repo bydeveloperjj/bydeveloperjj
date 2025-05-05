@@ -1,25 +1,41 @@
-<h1 align="center">📞 Contato & 🛠 Ferramentas</h1>
+<h1 align="center">🚀 Bem-vindo ao Meu Perfil! 🚀</h1>
 
 ---
 
 ## 📫 Meios de Contato
 
 <p align="center">
-  📧 <strong>joaopedrocodes@gmail.com</strong><br>
-  💬 Aberto para parcerias, projetos e ideias!
+  📧 **E-mail:** <strong>joaopedrocodes@gmail.com</strong><br>
+  📱 **Social:** <strong>Conecte-se comigo! Sempre aberto a parcerias, projetos inovadores e ideias criativas. 💬</strong>
 </p>
 
 ---
 
-## 🛠 Tecnologias e Ferramentas
+## 🛠 Tecnologias & Ferramentas que Uso
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=lua,js,ts,python,react,html,css,docker,git,vscode,linux" />
+  <strong>Linguagens:</strong><br>
+  <img src="https://skillicons.dev/icons?i=lua,js,ts,python,java,html,css" />
 </p>
 
 <p align="center">
-  <strong>Linguagens:</strong> Lua, Java, JavaScript, TypeScript, Python, HTML, CSS, SQL, etc.<br>
-  <strong>Ferramentas:</strong> Docker, Git, GitHub, VSCode, Linux, Firebase, MongoDB, Node.js, React, etc.
+  <strong>Ferramentas:</strong><br>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux,react,nodejs,tailwind" />
+</p>
+
+<p align="center">
+  🚀 Sou apaixonado por criar soluções rápidas e eficientes utilizando as tecnologias mais modernas.<br>
+  🔥 Estou sempre aprendendo e me desafiando em novos projetos, buscando excelência em cada código!
+</p>
+
+---
+
+## 📊 Meu GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bydeveloperjj&show_icons=true&theme=radical&count_private=true&hide_border=true" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bydeveloperjj&theme=radical&hide_border=true" />
 </p>
 
 ---
