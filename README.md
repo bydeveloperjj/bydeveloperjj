@@ -34,7 +34,8 @@
 
 <div align="center">
 
-✉️ <span style="color:#ff4da6;">jopecs04@gmail.com</span>  
+✉️ <span style="color:#ff4da6;">joaopedrocodes@gmail.com
+</span>  
 
 
 </div>
